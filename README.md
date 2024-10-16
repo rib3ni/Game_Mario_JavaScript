@@ -31,4 +31,8 @@ cd Game_Mario_JavaScript
 
 3. Open the index.html file in your web browser.
 
+## Usage
 
+1. Use the arrow keys to move the character.
+2. Press the spacebar to jump.
+3. Collect coins and avoid enemies to complete the levels.
